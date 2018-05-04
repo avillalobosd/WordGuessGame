@@ -1,0 +1,16 @@
+.imagen{width:375px; height:225px;margin-right: auto;margin-left: auto;
+    display: block;}
+
+body{background-color: black;color:white;}
+
+.texto{text-align: center;}
+
+.contenedor{padding-top: 30px;}
+
+.contorno{ border: 1px solid #cccccc;}
+
+.key{font-weight: bolder;}
+
+.esp {font-size: 50px }
+
+.esp2 {font-size: 30px }
